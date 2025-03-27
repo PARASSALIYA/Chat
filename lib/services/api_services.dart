@@ -1,0 +1,4 @@
+class ApiServices {
+  ApiServices._();
+  static ApiServices apiServices = ApiServices._();
+}
